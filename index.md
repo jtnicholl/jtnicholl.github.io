@@ -16,8 +16,10 @@ Some of these technologies include:
 <dl>
 	<dt><a href="/laststand">Last Stand</a></dt>
 	<dd>Upcoming live-service multiplayer action game.</dd>
-	<dt><a href="/qa">Release of Information Quality Assurance Application</a></dt>
-	<dd>A release of information request review application.</dd>
 	<dt><a href="/assessment">Assessment AI</a></dt>
 	<dd>AI powered service that finds, identifies, and labels sensitive medical information.</dd>
+	<dt><a href="/advancedsearch">Advanced Search</a></dt>
+	<dd>A powerful search application for searching release of information requests.</dd>
+	<dt><a href="/qa">Release of Information Quality Assurance Application</a></dt>
+	<dd>A release of information request review application.</dd>
 </dl>

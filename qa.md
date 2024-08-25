@@ -10,7 +10,7 @@ layout: default
 	<a href="/assets/images/qa0.png" target="blank">
 		<img height="78" width="150" src="/assets/images/qa0_thumb.png" />
 	</a>
-		<figcaption>QA application selection page</figcaption>
+	<figcaption>QA application selection page</figcaption>
 </figure>
 
 While employed at Cosairus, I created an application for reviewing HIPAA release of information

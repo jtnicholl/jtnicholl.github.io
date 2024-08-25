@@ -8,7 +8,7 @@ layout: default
 
 <figure>
 	<a href="/assets/images/assessment0.png" target="blank">
-		<img height="78" width="150" src="/assets/images/assessment0_thumb.png" />
+		<img height="74" width="150" src="/assets/images/assessment0_thumb.png" />
 	</a>
 	<figcaption>The Assessment AI's findings displayed in a web application</figcaption>
 </figure>

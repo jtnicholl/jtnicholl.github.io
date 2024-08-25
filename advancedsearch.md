@@ -8,7 +8,7 @@ layout: default
 
 <figure>
 	<a href="/assets/images/advsearch0.png" target="blank">
-		<img height="78" width="150" src="/assets/images/advsearch0_thumb.png" />
+		<img height="73" width="150" src="/assets/images/advsearch0_thumb.png" />
 	</a>
 	<figcaption>Advanced Search</figcaption>
 </figure>
@@ -42,13 +42,13 @@ as a key. Then, only the hash needed to be passed in the JWTs.
 <ul class="gallery">
 	<li>
 		<a href="/assets/images/advsearch1.png" target="blank">
-			<img src="/assets/images/advsearch1_thumb.png" height="87" width="150" />
+			<img src="/assets/images/advsearch1_thumb.png" height="74" width="150" />
 			<span>Search results, in dark mode</span>
 		</a>
 	</li>
 	<li>
 		<a href="/assets/images/advsearch2.png" target="blank">
-			<img src="/assets/images/advsearch2_thumb.png" height="87" width="150" />
+			<img src="/assets/images/advsearch2_thumb.png" height="74" width="150" />
 			<span>Login page</span>
 		</a>
 	</li>

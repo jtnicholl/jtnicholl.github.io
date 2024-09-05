@@ -33,17 +33,17 @@ Once this happens, a Python service retrieves the information from the database 
 AI's initial findings and the approved feedback, redownloads the searchable PDF file to extract its
 text, and generates newly refined training data in an automated process.
 
-<!--<ul class="gallery">
+<ul class="gallery">
 	<li>
-		<a href="/assets/images/assesment1.png" target="blank">
-			<img src="/assets/images/assesment1_thumb.png" height="87" width="150" />
+		<a href="/assets/images/assessment1.png" target="blank">
+			<img src="/assets/images/assessment1_thumb.png" height="73" width="150" />
 			<span>Completed processes with reviewer feedback</span>
 		</a>
 	</li>
 	<li>
-		<a href="/assets/images/assesment2.png" target="blank">
-			<img src="/assets/images/assesment2_thumb.png" height="87" width="150" />
+		<a href="/assets/images/assessment2.png" target="blank">
+			<img src="/assets/images/assessment2_thumb.png" height="73" width="150" />
 			<span>Manager approving or rejecting feedback, with the assessed document visible</span>
 		</a>
 	</li>
-</ul>-->
+</ul>
